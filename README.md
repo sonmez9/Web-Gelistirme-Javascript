@@ -39,4 +39,4 @@ npm run build    # üretim derlemesi (dist/)
 ## Yayın
 
 - GitHub: https://github.com/sonmez9/Web-Gelistirme-Javascript
-- Netlify: _eklenecek_
+- Netlify: https://web-gelistirme-javascript.netlify.app
